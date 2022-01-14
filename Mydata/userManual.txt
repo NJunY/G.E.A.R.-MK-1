@@ -1,0 +1,8 @@
+question            - for asking question
+alarm / reminder    - set reminder
+register            - for user registration
+recognize           - for user recognition
+detection           - for object detection
+track / tracking    - for object tracking with a certain object
+drive               - remote control driving
+chat                - for having a conversation
